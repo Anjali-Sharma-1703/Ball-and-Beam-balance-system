@@ -89,7 +89,7 @@ Ball-and-Beam-balance-system/
 
 # Author
 
-Anjali Sharna 
+Anjali Sharma 
 📌 Maulana Azad National Institute of Technology (MANIT), Bhopal  
 🔗 [GitHub](https://github.com/Anjali-Sharma-1703)  
 🔗 [LinkedIn](https://www.linkedin.com/in/anjali-sharma-5790b7291/)
